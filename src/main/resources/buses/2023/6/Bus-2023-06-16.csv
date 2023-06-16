@@ -1,0 +1,3 @@
+id, isReserved, age, capacity, mileage, manufacturer
+1,false,20,444,51547,MAN
+2,false,5,540,4562,VOLVO

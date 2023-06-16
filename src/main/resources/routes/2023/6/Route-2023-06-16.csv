@@ -1,0 +1,2 @@
+id, departureAddress, destinationAddress, stops, ticketPrice, totalDistance
+1,Lviv,SambirAS,[ua.lviv.iot.flixbusproject.model.Stop@5897f2cd, ua.lviv.iot.flixbusproject.model.Stop@510c45de],10.0,100.0

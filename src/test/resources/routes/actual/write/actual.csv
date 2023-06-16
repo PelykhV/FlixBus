@@ -1,0 +1,16 @@
+id, departureAddress, destinationAddress, stops, ticketPrice, totalDistance
+1,Departure 1,Destination 1,[],10.0,100.0
+2,Departure 2,Destination 2,[],15.0,150.0
+1,Departure 1,Destination 1,[],10.0,100.0
+2,Departure 2,Destination 2,[],15.0,150.0
+1,Departure,Destination,[],10.0,100.0
+1,Departure 1,Destination 1,[],10.0,100.0
+2,Departure 2,Destination 2,[],15.0,150.0
+1,Departure 1,Destination 1,[],10.0,100.0
+2,Departure 2,Destination 2,[],15.0,150.0
+1,Departure,Destination,[],10.0,100.0
+1,Departure 1,Destination 1,[],10.0,100.0
+2,Departure 2,Destination 2,[],15.0,150.0
+1,Departure 1,Destination 1,[],10.0,100.0
+2,Departure 2,Destination 2,[],15.0,150.0
+1,Departure,Destination,[],10.0,100.0
