@@ -1,0 +1,9 @@
+id, isReserved, age, capacity, mileage, manufacturer
+1, true, 12, 12, 12, skh
+1, false, 5, 50, 10000, Manufacturer 1
+2, true, 3, 40, 5000, Manufacturer 2
+1, false, 5, 50, 10000, Manufacturer 1
+2, true, 3, 40, 5000, Manufacturer 2
+1, false, 5, 50, 10000, Manufacturer 1
+2, true, 3, 40, 5000, Manufacturer 2
+1, false, 5, 50, 10000, Manufacturer
